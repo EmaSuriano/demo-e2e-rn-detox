@@ -584,6 +584,7 @@
 				00E356EF1AD99517003FC87E /* movieappTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				36903B73C57F421C9ADA2B70 /* Resources */,
+				C2E9F0382321A77C0083DB31 /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -598,6 +599,16 @@
 				2D02E4901E0B4A5D006451C7 /* movieapp-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		C2E9F0382321A77C0083DB31 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				5B248CA3018149E5B5956980 /* libRNVectorIcons.a */,
+				DE66B6C57EB1478CB93A3E0E /* libBVLinearGradient.a */,
+				06D1BE145F26451EA2E8C091 /* libReactNativeConfig.a */,
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -708,6 +719,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
